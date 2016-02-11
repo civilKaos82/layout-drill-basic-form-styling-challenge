@@ -32,9 +32,9 @@ You should do your own research too, but here are some good places to start:
 Your task: use CSS to transform the existing grossness into something
 approximating the following:
 
-![Sexy Form][]
+![Awesome Form][]
 
-Granted, this is not *the sexiest signup form of all time*, but it is a heck of
+Granted, this is not *the awesomest signup form of all time*, but it is a heck of
 a lot better than the default style and it won't take you too much work.
 
 What did we actually change?  Well, here is a short list of the new features:
@@ -55,11 +55,11 @@ shouldn't have to do too much more than remove the `<label>` elements, though.*
 * [CSS3 Previews][]
 * [Documentation for the &lt;input&gt; element][]
 * [Styling Texty Inputs Only][]
-* [Sexy Form][]
+* [Awesome Form][]
 * [CSS3Gradient][]
 
 [CSS3 Previews]: http://www.css3.info/preview/
 [Documentation for the &lt;input&gt; element]: https://developer.mozilla.org/en-US/docs/HTML/Element/input
 [Styling Texty Inputs Only]: http://css-tricks.com/styling-texty-inputs-only/
-[Sexy Form]: http://f.cl.ly/items/3c422L302j0z1j0j0w24/sexy_form.png
+[Awesome Form]: http://i.imgur.com/g3ZwVeQ.png
 [CSS3Gradient]: http://css3files.com/gradient/
